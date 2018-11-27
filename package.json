@@ -1,6 +1,6 @@
 {
   "name": "egg-knex-model",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a knex plugin for egg.js",
   "main": "./dist/index.js",
   "eggPlugin": {
